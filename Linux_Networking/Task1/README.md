@@ -1,4 +1,4 @@
-IP routing
+## IP routing
 
 1. Create virtual machines connection according to figure 1:
 
@@ -16,3 +16,5 @@ interfaces in order to make VM2 has an access to the Internet (iptables, forward
 7. Determine the default gateway for your HOST and display routing table.
 
 8. Trace the route to google.com.
+
+![network_lab] (network_lab.jpg)
