@@ -1,4 +1,4 @@
-##Task1.Part2
+## Task1.Part2
 
 1. Examine the tree command. Master the technique of applying a template, for
 example, display all files that contain a character c, or files that contain a
@@ -13,6 +13,7 @@ of listing directories using different keys. Explain the information displayed o
 the terminal using the -l and -a switches.
 
 ![tree_file_pwd_home](tree_file_pwd_home.png)
+
 5. Perform the following sequence of operations:
 - create a subdirectory in the home directory;
 - in this subdirectory create a file containing information about directories
@@ -24,6 +25,7 @@ addressing.
 - delete the file copied to the home directory.
 
 ![directory_info_rm_files](directory_info_rm_files.png)
+
 6. Perform the following sequence of operations:
 - create a subdirectory test in the home directory;
 - copy the .bash_history file to this directory while changing its name to
@@ -40,22 +42,27 @@ why
 ![cp_ln_lns](cp_ln_lns.png)
 
 ![rename_delete_lnk](rename_delete_lnk.png)
+
 7. Using the locate utility, find all files that contain the squid and traceroute
 sequence.
 
 ![locate_find](locate_find.png)
+
 8. Determine which partitions are mounted in the system, as well as the types of
 these partitions.
 
 ![lsblk_mounts](lsblk_mounts.png)
+
 9. Count the number of lines containing a given sequence of characters in a given
 file.
 
 ![wc](wc.png)
+
 10. Using the find command, find all files in the /etc directory containing the
 host character sequence.
 
 ![find_host](find_host.png)
+
 11. List all objects in /etc that contain the ss character sequence. How can I
 duplicate a similar command using a bunch of grep?
 
